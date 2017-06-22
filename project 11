@@ -1,0 +1,18 @@
+homework 11
+1- Basics concepts
+a- What is a DevOps? A DevOps engineer is an informtion technology (IT) professional who works with software developers, system operators (SysOps) and other production IT staff to oversee code releases.
+b- What is GIT? Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+c- what is the difference between git ans svn? In short, svn is a Centralized Revision Control System, and git is a Distributed Revision Control System (DVCS).GIT has a repository with revision tracking capacities and complete history. This repository is not dependent on a central server or network access. It is free software.SVN in the other hand does not have a repository which is either centralized or a centralized server. It is mainly used for maintaining historical and current versions of source code, documentation, and Web pages.
+d- what continious integration? Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
+e- what is continious delevery? Continuous delivery is a devops software development practice where code changes are automatically built, tested, and prepared for a release to production.
+f- what is scrum?  is a subset of Agile. It is a lightweight process framework for agile development, and the most widely-used one. A “process framework” is a particular set of practices that must be followed in order for a process to be consistent with the framework..
+g- What is agile methodology? is a particular approach to project management that is utilized in software development. This method assists teams in responding to the unpredictability of constructing software. It uses incremental, iterative work sequences that are commonly known as sprints.
+h- what release calender ? it's the steps with dates of the advancement of the project or product until its release date.
+i- what is release date? it's the day of the product delivery to the public.
+2- give 4 raisons why companies should consider the DevOps method 
+Faster delivery of features
+More stable operating environments
+Improved communication and collaboration
+More time to innovate 
+3- what are some automation tools used in the DevOps environment? (Puppet;jenkins;Git(Github);Docker ) etc
+4- why is it important to build the software in the test regions before delevering it to production?  it's to make sure that the software doesn't have any issue before going on production.
